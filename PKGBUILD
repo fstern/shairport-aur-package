@@ -18,7 +18,7 @@ source=('shairport.confd'
 md5sums=('f53311177bffbac70611d7e33bebe827'
          'c3145311b03ca709700e0846e7f8452d')
 
-_gitroot="https://github.com/fstern/shairport.git"
+_gitroot="https://github.com/albertz/shairport.git"
 _gitname="shairport"
 
 build() {
